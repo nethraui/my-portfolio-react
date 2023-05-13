@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio-react/static/css/main.68fc17d5.css",
-    "main.js": "/my-portfolio-react/static/js/main.f4106346.js",
+    "main.css": "/my-portfolio-react/static/css/main.2622ab51.css",
+    "main.js": "/my-portfolio-react/static/js/main.26a8189a.js",
     "static/media/The_Weeknd_Blinding_Lights.mp3": "/my-portfolio-react/static/media/The_Weeknd_Blinding_Lights.ca70097469a1b78dbd1a.mp3",
     "static/media/Nethra_Mugala_Resume.pdf": "/my-portfolio-react/static/media/Nethra_Mugala_Resume.81c22d8cd97c3f5daf12.pdf",
     "static/media/logoN.png": "/my-portfolio-react/static/media/logoN.94f87f5e8608ec9938fe.png",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff": "/my-portfolio-react/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/my-portfolio-react/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/my-portfolio-react/index.html",
-    "main.68fc17d5.css.map": "/my-portfolio-react/static/css/main.68fc17d5.css.map",
-    "main.f4106346.js.map": "/my-portfolio-react/static/js/main.f4106346.js.map"
+    "main.2622ab51.css.map": "/my-portfolio-react/static/css/main.2622ab51.css.map",
+    "main.26a8189a.js.map": "/my-portfolio-react/static/js/main.26a8189a.js.map"
   },
   "entrypoints": [
-    "static/css/main.68fc17d5.css",
-    "static/js/main.f4106346.js"
+    "static/css/main.2622ab51.css",
+    "static/js/main.26a8189a.js"
   ]
 }

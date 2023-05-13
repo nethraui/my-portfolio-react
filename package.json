@@ -1,0 +1,64 @@
+{
+  "name": "my-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.1",
+    "react-icons": "^4.4.0",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.8.7",
+    "web-vitals": "^2.1.4",
+    "@emailjs/browser": "^3.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.0.0",
+    "@fortawesome/free-solid-svg-icons": "^6.0.0",
+    "@fortawesome/react-fontawesome": "^0.1.17",
+    "animate.css": "^4.1.1",
+    "leaflet": "^1.7.1",
+    "loaders.css": "^0.1.2",
+    "magicmouse.js": "^1.2.1",
+    "react-leaflet": "^4.2.1",
+    "react-loaders": "^3.0.1",
+    "react-toastify": "^9.1.2",
+    "react-tsparticles": "^2.9.3",
+    "sass": "^1.62.1",
+    "styled-components": "^5.3.5",
+    "TagCloud": "^2.3.2",
+    "tsparticles": "^2.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}

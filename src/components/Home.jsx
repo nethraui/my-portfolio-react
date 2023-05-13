@@ -47,7 +47,7 @@ function Home() {
           <h2>
             Full Stack Developer
           </h2>
-          <Link to="/contact" className="flat-button">
+          <Link to="/my-portfolio-react/contact" className="flat-button">
             CONTACT ME
           </Link>
           <a href={nethraResume} target='_blank' className="flat-button">

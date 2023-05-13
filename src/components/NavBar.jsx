@@ -16,21 +16,21 @@ function NavBar() {
   return (
     <>
       <div className="nav-bar">
-        <Link className="logo" to="/">
+        <Link className="logo" to="/my-portfolio-react/">
           <img src={LogoN} alt="Logo" />
         </Link>
         <nav>
-          <NavLink exact="true" activeclassname="active" to="/">
+          <NavLink exact="true" activeclassname="active" to="/my-portfolio-react/">
             <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
           </NavLink>
-          <NavLink activeclassname="active" className="about-link" to="/about">
+          <NavLink activeclassname="active" className="about-link" to="/my-portfolio-react/about">
             <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
           </NavLink>
 
           <NavLink
             activeclassname="active"
             className="contact-link"
-            to="/contact"
+            to="/my-portfolio-react/contact"
           >
             <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
           </NavLink>
